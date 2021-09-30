@@ -24,5 +24,3 @@ class Listener():
             os.system(self.listener["mac"].format(self.lhost,self.lport))
         elif opt ==5:
             os.system(self.listener["web"].format(self.lhost,self.lport))
-
-
