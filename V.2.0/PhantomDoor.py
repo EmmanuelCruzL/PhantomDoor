@@ -13,6 +13,7 @@ def cleaning(name):
     os.system("figlet {}".format(name ))
 
 logo = Logo()
+os.system("clear")
 logo.printTerms()
 
 choice = input("Enter your choice #~:  ")

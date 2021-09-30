@@ -24,11 +24,12 @@ _____________________________________________________________
 [---]           PhantomDoor Backdoor Generator and Listener                 [---]
 [---]                                                                       [---]
 [---]                     Coded By venom0x16                                [---]
+[---]                        Coded V2.0                                     [---]
+[---]                     EmmanuelCL(rubickcuv)                             [---]
 [---]                github=> github.com/venom0x16                          [---]
-[---]      Contact me with Instagram => instagram.com/venom0x16/            [---]
-[---]              							    [---]
-[---]              Design credits to => Zerodoor.py			    [---]
- 
+[---]                github=> github.com/EmmanuelCruzL                      [---]
+[---]              							                                
+
 1) BackDoors 
 2) Listener
 
