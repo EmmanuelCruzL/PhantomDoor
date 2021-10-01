@@ -1,6 +1,6 @@
 # PhantomDoor
 ![scrot](https://github.com/EmmanuelCruzL/PhantomDoor/blob/master/Phantom.jpg)
-Backdoor Generator and Listener
+
 ## ¿QUE ES PhantomDoor ?
 
 PhantomDoor es una herramienta escrita en Python que nos permite obtener un sesión meterpreter para Windows, Linux, macOS, Android y web; incrustando un backdoor.
