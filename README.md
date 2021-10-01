@@ -21,6 +21,8 @@ El funcionamiento es sencillo. Iniciamos el script; seleccionamos la plataforma 
      
       git clone  https://github.com/EmmanuelCruzL/PhantomDoor.git
 ## USO
+      ![scrot](https://github.com/EmmanuelCruzL/PhantomDoor/blob/master/assets/P.jpg)
+
      
       chmod +x PhantomDoor.py
      
