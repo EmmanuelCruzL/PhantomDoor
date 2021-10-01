@@ -1,5 +1,5 @@
 # PhantomDoor
-![scrot](https://github.com/EmmanuelCruzL/PhantomDoor/blob/master/Phantom.jpg)
+![scrot](https://github.com/EmmanuelCruzL/PhantomDoor/blob/master/assets/Phantom.jpg)
 
 ## ¿QUE ES PhantomDoor ?
 
