@@ -23,7 +23,10 @@ El funcionamiento es sencillo. Iniciamos el script; seleccionamos la plataforma 
 ## USO
 
 
-     
+      cd PhantomDoor
+      
+      cd V.2.0
+      
       chmod +x PhantomDoor.py
      
       python3  PhantomDoor.py 
